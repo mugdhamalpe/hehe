@@ -1,0 +1,49 @@
+public class calcPrac {
+    public integer first { get; set; }
+    public integer second { get; set; }
+    public integer result { get; set; }
+    
+    public void Addition(){
+        result=first+second;
+    }
+    public void Subtraction(){
+        result=first-second;
+    }
+    public void Multiplication(){
+        result=first*second;
+    }
+    public void Division(){
+        result=first/second;
+    }
+    public void SquareRootA(){
+        result=Math.sqrt(first).intValue();
+    }
+    public void SquareRootB(){
+        result=Math.sqrt(second).intValue();
+    }
+    public void PowerA(){
+        result=Math.pow(first, 2).intValue();
+    }
+}
+
+<apex:page controller="calcPrac">
+    <apex:sectionHeader title="Calculator" subtitle="Basic Calculator"/>
+    <apex:form >
+        <apex:pageBlock title="Basic Calculator">
+            <apex:pageBlockButtons location="bottom">
+                <apex:commandButton value="Addition" action="{!Addition}" reRender="res"/>
+                <apex:commandButton value="Subtraction" action="{!Subtraction}" reRender="res"/>
+                <apex:commandButton value="Multiplication" action="{!Multiplication}" reRender="res"/>
+                <apex:commandButton value="Division" action="{!Division}" reRender="res"/>
+                <apex:commandButton value="Sqrt A" action="{!SquareRootA}" reRender="res"/>
+                <apex:commandButton value="Sqrt B" action="{!SquareRootB}" reRender="res"/>
+                <apex:commandButton value="Square of A" action="{!PowerA}" reRender="res"/>
+            </apex:pageBlockButtons>
+            <apex:pageBlockSection title="Calculator">
+                <apex:inputText label="Enter first number " html-placeholder="First number" value="{!first}"/>
+                <apex:inputText label="Enter second number " html-placeholder="Second number" value="{!second}"/>
+                <apex:outputText label="Result" value="{!result}" id="res"></apex:outputText>
+            </apex:pageBlockSection>     
+        </apex:pageBlock>
+    </apex:form>
+</apex:page>
