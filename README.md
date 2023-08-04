@@ -22,3 +22,9 @@ I stand before you today, more prepared and more excited for the future than eve
 
 Thank you.
 
+
+
+
+
+
+As my internship at Barclays comes to an end, I want to take a moment to express my deepest gratitude to each and every one of you. Throughout this journey, I've been graced with your wisdom, dedication, and camaraderie. I can't emphasize enough how much I've learned from our collective experiences and how invaluable these insights have been in shaping my professional growth. It's been an honor to be a part of such a dynamic and inclusive team, and while I may be leaving this office, the lessons and memories I've accumulated here will undoubtedly be a guiding light in my future endeavors. Thank you, Barclays family.
