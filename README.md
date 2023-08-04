@@ -44,3 +44,28 @@ Sure, here are some short messages that you could send to each team member:
 5. To the Entire Team: "Thank you all for making my internship an enriching and memorable experience. The knowledge I've gained, the skills I've honed, and the friendships I've formed are priceless. It's been a privilege to learn from such an amazing team."
 
 Remember, personalization is key when sending out thank-you notes. Try to mention specific instances where their assistance was crucial, if possible. That will make your gratitude more meaningful.
+
+
+
+
+Subject: Farewell Message: Signing off from an Exceptional Internship Journey at Barclays
+
+Dear Team,
+
+As today marks my last day as an intern at Barclays, I am writing this email to express my deepest gratitude to each one of you.
+
+Over the past few months, I've been privileged to work, learn, and grow in this dynamic environment. Every challenge faced, every problem solved, and every successful project was a testament to the strong, supportive, and dedicated team that we are.
+
+Your professional guidance, assistance, and continuous support have been instrumental in my learning journey. The skills, experiences, and insights I've gained will undoubtedly serve as a firm foundation for my future career. 
+
+To my manager, thank you for your faith in my abilities and for providing me with opportunities that helped me step out of my comfort zone. To my colleagues, your camaraderie and assistance made even the most daunting tasks manageable. 
+
+As I conclude my internship, I carry with me not only valuable professional experience but also cherished memories of working with a truly extraordinary team. 
+
+I look forward to staying in touch and, hopefully, our paths may cross again in the future. You can reach me at [Your Personal Email Address].
+
+Thank you once again for this incredible opportunity and experience.
+
+Best Regards,
+
+[Your Name]
