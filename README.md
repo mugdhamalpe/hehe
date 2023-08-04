@@ -28,3 +28,19 @@ Thank you.
 
 
 As my internship at Barclays comes to an end, I want to take a moment to express my deepest gratitude to each and every one of you. Throughout this journey, I've been graced with your wisdom, dedication, and camaraderie. I can't emphasize enough how much I've learned from our collective experiences and how invaluable these insights have been in shaping my professional growth. It's been an honor to be a part of such a dynamic and inclusive team, and while I may be leaving this office, the lessons and memories I've accumulated here will undoubtedly be a guiding light in my future endeavors. Thank you, Barclays family.
+
+
+
+Sure, here are some short messages that you could send to each team member:
+
+1. To my Mentor: "Thank you for guiding me throughout this journey and investing in my professional growth. Your mentorship has been invaluable to me. Your kindness will never be forgotten."
+
+2. To a Team Lead: "I am grateful for your leadership and understanding during my time here. The insights and skills you've imparted are incredibly valuable. Thank you!"
+
+3. To a Peer Intern: "I've learned so much from working alongside you. Your patience and expertise have made my experience enriching. I appreciate all your help!"
+
+4. To an Office Staff: "Thank you for making me feel welcome and ensuring a smooth process in this new environment. Your assistance has made my internship much more manageable."
+
+5. To the Entire Team: "Thank you all for making my internship an enriching and memorable experience. The knowledge I've gained, the skills I've honed, and the friendships I've formed are priceless. It's been a privilege to learn from such an amazing team."
+
+Remember, personalization is key when sending out thank-you notes. Try to mention specific instances where their assistance was crucial, if possible. That will make your gratitude more meaningful.
